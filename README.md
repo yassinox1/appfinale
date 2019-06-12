@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# gmaotest12344  auauajpull & puqh in master
-=======
-# gmaotest12344  waw
->>>>>>> jdl
-=======
-# gmaotest12344  waww
->>>>>>> jdl
-
+ 
 This application was generated using JHipster 5.8.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.1](https://www.jhipster.tech/documentation-archive/v5.8.1).
 
 ## Development
